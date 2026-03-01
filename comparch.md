@@ -83,6 +83,10 @@ See also: [Assembly (Arm)](assembly.arm.md), [Assembly (RISC-V)](assembly.riscv.
 	- http://crc2.ece.tamu.edu/
 - The 1st Instruction Prefetching Championship (IPC-1)
 	- https://research.ece.ncsu.edu/ipc/
+- The Next-Generation Championship in Branch Prediction (CBP-NG) 2026
+	- https://cbp-ng.bpchamp.com/
+	- The CBP-NG Simulator
+		- https://github.com/AmpereComputing/cbp-ng/
 
 ## Journal of Instruction-Level Parallelism (JILP) Workshop on Computer Architecture Competitions (JWAC)
 
