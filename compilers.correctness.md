@@ -654,6 +654,17 @@ See also: [Testing](https://github.com/MattPD/cpplinks/blob/master/testing.md)
 - The problem with differential testing is that at least one of the compilers must get it right
 	- http://blog.frama-c.com/index.php?post/2013/09/25/The-problem-with-differential-testing-is-that-at-least-one-of-the-compilers-must-get-it-right
 
+### Testing: Readings: 2026
+
+- Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers
+	- International Conference on Software Engineering (ICSE) 2026
+	- Haoyang Ma, Alastair F. Donaldson, Qingchao Shen, Yongqiang Tian, Junjie Chen, Shing-Chi Cheung
+	- https://arxiv.org/abs/2503.20332
+	- https://doi.org/10.1145/3744916.3773237
+	- https://www.doc.ic.ac.uk/~afd/papers/2026/ICSE.pdf
+	- Erwin: A random Solidity program generator
+		- https://github.com/haoyang9804/Erwin
+
 ### Testing: Readings: 2025
 
 - A Tale of Two DL Cities: When Library Tests Meet Compiler
