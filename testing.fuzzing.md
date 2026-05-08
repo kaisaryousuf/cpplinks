@@ -586,10 +586,14 @@ Fuzzing applied to software performance.
 ## Talks: 2026
 
 - Advancing from “What the fuzz?” to “All the Fuzz!”
-- FUZZING 2026 @ NDSS 2026 Keynote
-- Mathias Payer
-- https://www.youtube.com/watch?v=In3kRAVVbzQ
-- "Reflections on the three phases of fuzzing: from origins of fuzzing to the greybox fuzzing, ending with how fuzzing will continue evolving in the future."
+	- FUZZING 2026 @ NDSS 2026 Keynote
+	- Mathias Payer
+	- https://www.youtube.com/watch?v=In3kRAVVbzQ
+	- "Reflections on the three phases of fuzzing: from origins of fuzzing to the greybox fuzzing, ending with how fuzzing will continue evolving in the future."
+- Where the Fuzz Are We Going?
+	- FUZZING 2026 @ NDSS 2026 Keynote
+	- Sergej Dechand
+	- https://www.youtube.com/watch?v=yp-AKW36ihQ
 
 ## Talks: 2024
 
