@@ -3708,6 +3708,12 @@ Intel Trust Domain Extensions (TDX)
 	- https://fabianrauscher.com/papers/tdxploit.pdf
 	- https://hannesweissteiner.com/publications/tdxploit/
 	- https://github.com/isec-tugraz/TDXploit
+- TDXRay: Microarchitectural Side-Channel Analysis of Intel TDX for Real-World Workloads
+	- IEEE Symposium on Security and Privacy (S&P) 2026
+	- Tristan Hornetz, Hosein Yavarzadeh, Albert Cheu, Adria Gascon, Lukas Gerlach, Daniel Moghimi, Phillipp Schoppmann, Michael Schwarz, Ruiyi Zhang
+	- https://tdxray.cpusec.org/
+	- TDXRay Framework
+		- https://github.com/hoseinyavarzadeh/tdxray
 
 ## RISC-V Physical Memory Protection (PMP)
 
