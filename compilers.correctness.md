@@ -935,6 +935,12 @@ See also: [Testing](https://github.com/MattPD/cpplinks/blob/master/testing.md): 
 	- https://2025.ecoop.org/details/ecoop-2025-technical-papers/34/FuzzFlesh-Randomised-Testing-of-Decompilers-Via-Control-Flow-Graph-based-Program-Gen
 	- FuzzFlesh: Compiler testing using control flow graph fleshing
 		- https://github.com/ambergorzynski/control_flow_fleshing
+- Fuzzing C++ Compilers via Type-Driven Mutation
+	- OOPSLA 2025
+	- Bo Wang, Chong Chen, Ming Deng, Junjie Chen, Xing Zhang, Youfang Lin, Dan Hao, Jun Sun
+	- https://doi.org/10.1145/3763094
+	- https://www.youtube.com/watch?v=je8uYrTNfys
+	- https://github.com/TyMutOOPSLA25/TyMut-OOPSLA25-Artifacts
 - Fuzzing MLIR Compilers with Custom Mutation Synthesis
 	- International Conference on Software Engineering (ICSE) 2025
 	- Ben Limpanukorn, Jiyuan Wang, Hong Jin Kang, Eric Zitong Zhou, Miryung Kim
