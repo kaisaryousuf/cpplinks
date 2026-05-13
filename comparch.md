@@ -73,20 +73,25 @@ See also: [Assembly (Arm)](assembly.arm.md), [Assembly (RISC-V)](assembly.riscv.
 
 # Competitions
 
-- The 1st JILP Championship Branch Prediction Competition (CBP-1)
+- The 1st JILP Championship Branch Prediction Competition (CBP-1) 2004
 	- http://www.jilp.org/cbp/
-- The 1st JILP Data Prefetching Championship (DPC-1)
+- The 1st JILP Data Prefetching Championship (DPC-1) 2009
 	- http://www.jilp.org/dpc/
-- The 2nd Data Prefetching Championship (DPC-2)
+- The 2nd Data Prefetching Championship (DPC-2) 2015
 	- http://comparch-conf.gatech.edu/dpc2/
-- The 2nd Cache Replacement Championship (CRC-2)
+- The 2nd Cache Replacement Championship (CRC-2) 2017
 	- http://crc2.ece.tamu.edu/
-- The 1st Instruction Prefetching Championship (IPC-1)
+- The 1st Instruction Prefetching Championship (IPC-1) 2020
 	- https://research.ece.ncsu.edu/ipc/
 - The Next-Generation Championship in Branch Prediction (CBP-NG) 2026
 	- https://cbp-ng.bpchamp.com/
 	- The CBP-NG Simulator
 		- https://github.com/AmpereComputing/cbp-ng/
+- The 4th Data Prefetching Championship (DPC-4) 2026
+	- https://sites.google.com/view/dpc4-2026
+	- https://github.com/CMU-SAFARI/DPC4
+	- https://www.sigarch.org/fourth-data-prefetching-championship-part-i/
+	- https://www.sigarch.org/an-overview-of-the-fourth-data-prefetching-championship-part-2/
 
 ## Journal of Instruction-Level Parallelism (JILP) Workshop on Computer Architecture Competitions (JWAC)
 
