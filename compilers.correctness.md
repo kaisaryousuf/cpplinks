@@ -77,7 +77,9 @@ See also:
 	- 2012 PhD Dissertation; Robert W. Dockins
 	- https://arks.princeton.edu/ark:/88435/dsp01rr171x259
 	- ftp://ftp.cs.princeton.edu/reports/2012/936.pdf
-- Some Goals for High-impact Verified Compiler Research - https://blog.regehr.org/archives/1565
+- Some Goals for High-impact Verified Compiler Research
+	- 2018; John Regehr
+	- https://blog.regehr.org/archives/1565
 - The Ethical Compiler: Addressing the Is-Ought Gap in Compilation (Invited Talk)
 	- The 2025 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation (PEPM)
 	- William J. Bowman
@@ -107,11 +109,15 @@ See also:
 	- OOPSLA 2021
 	- Stefanos Chaliasos, Thodoris Sotiropoulos, Georrgios-Petros Drosos, Charalambos Mitropoulos, Dimitris Mitropoulos, Diomidis Spinellis
 	- https://dimitro.gr/assets/papers/CSDMMS21.pdf
-- What even is compiler correctness? - https://www.williamjbowman.com/blog/2017/03/24/what-even-is-compiler-correctness/
+- What even is compiler correctness?
+	- 2017; William J. Bowman
+	- https://www.williamjbowman.com/blog/2017/03/24/what-even-is-compiler-correctness/
 - Why Do Peephole Optimizations Work?
 	- 2023; John Regehr
 	- https://blog.regehr.org/archives/2485
-- Write Your Compiler by Proving It Correct - http://liamoc.net/posts/2015-08-23-verified-compiler.html
+- Write Your Compiler by Proving It Correct
+	- 2015; Liam O'Connor
+	- https://liamoc.net/posts/2015-08-23-verified-compiler/
 
 ## Debugging
 
@@ -1440,7 +1446,7 @@ See also: [Testing](https://github.com/MattPD/cpplinks/blob/master/testing.md): 
 	- https://arxiv.org/abs/2504.01379
 	- https://doi.org/10.1145/3763161
 	- https://xgdsmileboy.github.io/files/paper/oopsla25.pdf
-	- DESIL (DEtecting SILent bugs): a novel technique that jointly generates UB-free programs and determines an optimal lowering path for each program to facilitate e#ective bug detection
+	- DESIL (DEtecting SILent bugs): a novel technique that jointly generates UB-free programs and determines an optimal lowering path for each program to facilitate effective bug detection
 		- https://github.com/tju-chenyaosuo/DESIL
 	- MLIR-FUZZ-LTS: Long time support for MLIRSmith, MLIRod, and DESIL
 		- https://github.com/tju-chenyaosuo/MLIR-FUZZ-LTS
